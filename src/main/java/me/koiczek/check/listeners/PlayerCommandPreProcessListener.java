@@ -22,12 +22,8 @@ public class PlayerCommandPreProcessListener implements Listener{
             if (!e.getMessage().startsWith("/helpop")) {
                 ChatUtil.sendMessage(p, Config.MESSAGE_ERROR);
                 e.setCancelled(true);
-            } else {
                 return;
             }
-            return;
-        } else {
-            return;
         }
     }
 }
