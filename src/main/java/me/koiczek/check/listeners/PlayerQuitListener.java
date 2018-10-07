@@ -24,8 +24,6 @@ public class PlayerQuitListener implements Listener{
             final List<String> msg = Config.MESSAGE_LOGOUT;
             msg.forEach(c -> ChatUtil.sendMessage(a, c.replace("{SPR-NAME}", p.getName())));
             CheckManager.players.remove(p.getUniqueId());
-        } else {
-            return;
         }
     }
 }
