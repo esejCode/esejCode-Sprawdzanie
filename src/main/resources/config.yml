@@ -1,0 +1,31 @@
+### esejCode- Sprawdzanie ###
+
+message:
+  check:
+  - ''
+  - '&c&l      Jestes Sprawdzany'
+  - '&8>> &7Masz 3 minuty na wejscie, na ts3 &6ts.twojts.pl&7!'
+  - ''
+  - '&c&l      KARY'
+  - '&8>> &7Przyznanie sie: &63 dni'
+  - '&8>> &7Wykrycie cheatow: &67 dni'
+  - '&8>> &7Wylogowanie sie podczas sprawdzania: &6Na zawsze'
+  - ''
+  clear:
+  - ''
+  - '&c&l      Sprawdzanie'
+  - '&8>> &7Jestes czysty!'
+  - '&c&l      Sprawdzanie'
+  - ''
+  cheater:
+  - ''
+  - '&c&l      Sprawdzanie'
+  - '&8>> &7Wykryto u ciebie cheaty mozesz juz sie pozegnac z serwerem ;('
+  - '&c&l      Sprawdzanie'
+  - ''
+  logout:
+  - ''
+  - '&8>> &7Gracz &4{SPR-NAME} &7wylogowal sie podczas sprawdzania!'
+  - ''
+  error: '&c&lBlad: &7Podczas sprawdzania mozesz jedynie wykonac komende: &4&l/HELPOP'
+spawn: 0.1:80.1:0.1

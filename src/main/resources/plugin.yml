@@ -1,0 +1,11 @@
+name: esejCode-Check
+version: ${project.version}
+main: me.koiczek.check.Check
+authors: [esejCode]
+description: Plugin, który pomaga w sprawdzaniu graczy
+
+commands:
+   sprawdz:
+   czysty:
+   cheater:
+   setspr:
